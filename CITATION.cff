@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this atlas, please cite it as below."
+title: "Safety Science Entity Atlas (Güvenlik Bilimi Varlık Atlası)"
+version: "10"
+date-released: 2026-10-04
+license: CC-BY-4.0
+type: dataset
+authors:
+  - family-names: Kurutkan
+    given-names: Nurullah
+    affiliation: "Düzce University"
+    orcid: "https://orcid.org/0000-0002-3740-4231"
+repository-code: "https://github.com/Kurutkan/safety-science-atlas"
+url: "https://kurutkan.github.io/safety-science-atlas/"
+keywords:
+  - safety science
+  - taxonomy
+  - accident models
+  - patient safety
+  - human factors

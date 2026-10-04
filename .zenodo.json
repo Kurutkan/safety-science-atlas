@@ -1,0 +1,8 @@
+{
+  "title": "Safety Science Entity Atlas (Güvenlik Bilimi Varlık Atlası), inventory v10",
+  "upload_type": "dataset",
+  "description": "Interactive bilingual (English/Turkish) atlas of 181 coding units (146 single entities and 35 lineages) covering models, theories, methods and tools in safety science, organised on a two-axis taxonomy (7 fields x 12 entity types). Built from a Web of Science corpus of 152 review and 1,657 research articles.",
+  "creators": [{"name": "Kurutkan, Nurullah", "affiliation": "Düzce University", "orcid": "0000-0002-3740-4231"}],
+  "license": "cc-by-4.0",
+  "keywords": ["safety science", "taxonomy", "accident models", "patient safety", "human factors"]
+}
