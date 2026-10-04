@@ -1,5 +1,7 @@
 # Safety Science Entity Atlas / Güvenlik Bilimi Varlık Atlası
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23138415.svg)](https://doi.org/10.5281/zenodo.23138415)
+
 Interactive atlas of 181 coding units (146 single entities and 35 lineages) covering models, theories, methods and tools in safety science, organised on a two-axis taxonomy (7 fields × 12 entity types). Inventory v10.
 
 - **Live site:** https://kurutkan.github.io/safety-science-atlas/
@@ -16,7 +18,9 @@ Nurullah Kurutkan, Department of Health Management, Faculty of Business, Düzce 
 
 ## How to cite
 
-See `CITATION.cff` (GitHub shows a "Cite this repository" button). A DOI will be added after archiving on Zenodo.
+Kurutkan, N. (2026). *Safety Science Entity Atlas (Güvenlik Bilimi Varlık Atlası), inventory v10* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23138415
+
+GitHub also offers a "Cite this repository" button based on `CITATION.cff`.
 
 ## License
 
