@@ -1,12 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this atlas, please cite it as below."
 title: "Safety Science Entity Atlas (Güvenlik Bilimi Varlık Atlası)"
-version: "10"
-date-released: 2026-10-04
+version: "v18"
+date-released: 2026-11-13
 license: CC-BY-4.0
 type: dataset
-doi: "10.5281/zenodo.23138415"
+doi: "10.5281/zenodo.24207407"
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23138414"
+    description: "Concept DOI, all versions (resolves to the latest)"
+  - type: doi
+    value: "10.5281/zenodo.24207407"
+    description: "Zenodo archive of v18 (inventory v10)"
   - type: doi
     value: "10.5281/zenodo.23138415"
     description: "Zenodo archive of v10"
