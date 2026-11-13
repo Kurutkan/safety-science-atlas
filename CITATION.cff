@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this atlas, please cite it as below."
 title: "Safety Science Entity Atlas (Güvenlik Bilimi Varlık Atlası)"
-version: "v18"
-date-released: 2026-11-13
+version: "v18.1"
+date-released: 2026-11-14
 license: CC-BY-4.0
 type: dataset
 doi: "10.5281/zenodo.24207407"
